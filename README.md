@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.dev/api?type=waving&color=0A2472&height=230&section=header&text=Sujay%20Mulagund&fontSize=55&fontColor=FFFFFF&animation=twinkling&desc=MS%20Data%20Science%2C%20Analytics%20%26%20Engineering%20%40%20ASU&descAlignY=62&descSize=17)
+![Header](https://capsule-render.dev/api?type=waving&color=0A2472&height=230&section=header&text=Sujay%20Gopal%20Mulagund&fontSize=48&fontColor=FFFFFF&animation=twinkling&desc=MS%20Data%20Science%2C%20Analytics%20%26%20Engineering%20%40%20ASU&descAlignY=62&descSize=17)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0A2472&center=true&vCenter=true&width=650&lines=MS+Data+Science%2C+Analytics+%26+Engineering+%40+ASU;Building+RAG+Pipelines+%26+LLM+Eval+Systems;Full-Stack+AI+Application+Development;Turning+Data+Into+Decisions)](https://github.com/Sujay1709)
 
@@ -13,32 +13,13 @@
 
 ## 👋 Who I Am
 
-```ts
-const sujayMulagund = {
-  title: "MS Data Science, Analytics & Engineering Student @ Arizona State University",
-  stack: {
-    languages: ["Python", "SQL"],
-    frontend: ["React 18"],
-    backendAndInfra: ["FastAPI", "Docker"],
-    cloud: ["Google Cloud Run"],
-    aiAndData: [
-      "LangChain",
-      "ChromaDB",
-      "Ollama",
-      "HuggingFace",
-      "Google ADK",
-      "Gemini 2.5 Flash",
-    ],
-  },
-  launchedProjects: [
-    "DocuMind — RAG-powered document Q&A pipeline",
-    "Model Regression Detection System — LLM behavioral regression detector",
-    "AutoHub — AI-powered automotive discovery platform",
-  ],
-  status: "actively building & shipping AI/ML systems",
-  openTo: ["collaborations", "open-source contributions", "interesting AI/ML problems"],
-};
-```
+I'm **Sujay Gopal Mulagund**, an MS student in Data Science, Analytics & Engineering at Arizona State University. I build end-to-end AI/ML systems — retrieval-augmented pipelines, LLM evaluation frameworks, and full-stack AI products, from data to deployment.
+
+- 🎓 **Currently:** MS Data Science, Analytics & Engineering @ Arizona State University
+- 🔭 **Building:** DocuMind, Model Regression Detection System, AutoHub
+- 🌱 **Focused on:** RAG pipelines, LLM evaluation & regression testing, applied AI engineering
+- 🤝 **Open to:** collaborations, open-source contributions, and interesting AI/ML problems
+- ⚡ **Status:** actively building & shipping
 
 <br>
 
